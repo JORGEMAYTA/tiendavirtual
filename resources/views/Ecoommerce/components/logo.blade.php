@@ -1,0 +1,1 @@
+<img src="{{ asset($empresaD->foto) }}" alt="{{$empresaD->nombre}}">
